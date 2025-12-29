@@ -44,7 +44,7 @@ function App() {
   return (
     <div className="container">
       <div className="card">
-        <h1>For my mum</h1>
+        <h1>For my mum, Giovanna</h1>
         <p className="compliment-text">{compliment}</p>
         <button onClick={handleGetCompliment} className="action-button">
           Get Compliment
